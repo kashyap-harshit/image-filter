@@ -134,7 +134,7 @@ int main()
         }
     }
 
-    stbi_write_jpg("imgFiles/image_gray.jpg", width, height, channels, outputImg, 100);
+    stbi_write_jpg("imgFiles/output.jpg", width, height, channels, outputImg, 100);
 
     stbi_image_free(img);
     free(outputImg);
