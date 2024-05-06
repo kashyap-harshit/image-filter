@@ -1,0 +1,1 @@
+This C++ program applies various image filters (greyscale, inversion, brightness adjustment, contrast adjustment, and sepia) to a loaded image using the STB image processing libraries. The user can interactively choose the filter to apply, and the processed image is saved as a new file.
